@@ -87,7 +87,7 @@
 <h3> 3. Activity Values </h3>
 
 Value | Activity| Description
------------- | -------------
+------------ | -------------| -------------
 1|WALKING | subject was walking during the test
 2|WALKING_UPSTAIRS |subject was walking up a staircase during the test
 3|WALKING_DOWNSTAIRS |subject was walking down a staircase during the test
