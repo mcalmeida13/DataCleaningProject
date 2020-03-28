@@ -1,9 +1,12 @@
 <h1> Tidy.txt Code Book </h1>
 
 <h3> 1. Identifiers </h3>
-  * subject
-  * activity
+
+- subject
+- activity
+
 <h3> 2. Measurements </h3>
+
   * tBodyAccMeanX 
   * tBodyAccMeanY
   * tBodyAccMeanZ 
